@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Startups, [Techstars](https://www.techstars.com/), Software Development, Python, AI/ML
 - 📫 How to reach me: raveen.b@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Duct tape saves lives, has mine more than once!
+- ⚡ Fun fact: Duct tape saves lives, has saved mine more than once!
