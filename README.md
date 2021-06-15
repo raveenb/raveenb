@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my second startup [MakeMySummary](https://www.makemysummary.com)
 - 🌱 I’m currently learning GPT-2/3, Abstractive Summarization, Creative Writing, Designing on Canva (awesome tool btw!)
 - 👯 I’m looking to collaborate on AI, Productivity Tools
-- 🤔 I’m looking for help with Content Marketing
+- 🤔 I’m looking for help with SEM and Content Marketing
 - 💬 Ask me about Startups, [Techstars](https://www.techstars.com/), Software Development, Python, AI/ML
 - 📫 How to reach me: raveen.b@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Duct-tape and cable-ties saves lives (always have them handy), [Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor) saves relationships (use it liberally)!
+- ⚡ Fun fact: Liberal use of [Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor) saves hours of strife and mental anguish, avoid it and profit!
