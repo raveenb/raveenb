@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Startups, [Techstars](https://www.techstars.com/), Software Development, Python, AI/ML
 - 📫 How to reach me: raveen.b@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Liberal use of [Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor) saves hours of strife and mental anguish, avoid it and profit!
+- ⚡ Fun fact: [Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor) amazing, and `Flight, try SCE to Aux` is beautiful!
