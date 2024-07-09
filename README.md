@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on my second startup [MakeMySummary](https://www.makemysummary.com)
-- 🌱 I’m currently learning GPT-2/3, Abstractive Summarization, Creative Writing, Designing on Canva (awesome tool btw!)
-- 👯 I’m looking to collaborate on AI, Productivity Tools
+- 🔭 I’m currently working on my second startup [Leadzen](https://app.leadzen.ai)/[Analystt](http://app.analystt.ai) and a side project [MakeMySummary](https://www.makemysummary.com)
+- 🌱 I’m still learning on Generative AI, Creative Writing, Designing on Canva (awesome tool btw!)
+- 👯 I’m looking to collaborate on AI, Productivity Tools, Fintech, SportsTech, HardTech
 - 🤔 I’m looking for help with SEM and Content Marketing
 - 💬 Ask me about Startups, [Techstars](https://www.techstars.com/), Software Development, Python, AI/ML
 - 📫 How to reach me: raveen.b@gmail.com
