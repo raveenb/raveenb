@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on my second startup [Leadzen](https://app.leadzen.ai)/[Analystt](http://app.analystt.ai) and a side project [MakeMySummary](https://www.makemysummary.com)
-- 💸 Exited my first startup [Hammerhead](https://www.hammerhead.io) and partially exited my second startup [Leadzen](https://app.leadzen.ai)
+- 💸 Exited my first startup [Hammerhead](https://www.hammerhead.io) in 2021 and partially exited my second startup [Leadzen](https://app.leadzen.ai) in 2023
 - 🌱 I’m still learning on Generative AI, Creative Writing, Designing on Canva (awesome tool btw!)
 - 👯 I’m looking to collaborate on AI, Productivity Tools, Fintech, SportsTech, HardTech
 - 🤔 I’m looking for help with SEM and Content Marketing
