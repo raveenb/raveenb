@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently looking to start my third startup and working on a side project [MakeMySummary](https://www.makemysummary.com)
+- 🔭 I’m currently looking to start my third startup and am part of the Antler Singapore SG17 Cohort
 - 💸 Exited my first startup [Hammerhead](https://www.hammerhead.io) in 2021 and exited my second startup [Leadzen](https://app.leadzen.ai) in 2023
 - 🌱 I’m still learning on Generative AI, Creative Writing, Designing on Canva (awesome tool btw!)
 - 👯 I’m looking to collaborate on AI, Productivity Tools, Fintech, SportsTech, HardTech
