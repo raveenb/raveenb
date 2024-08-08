@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: raveen.b@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: [Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor) amazing, and `Flight, try SCE to Aux` is beautiful!
+  
+![BannerâLinkedIn 1584x396_WHITE](https://github.com/user-attachments/assets/168f8440-7955-47fb-9dff-13219274d565)
