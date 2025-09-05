@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Startup Accelerators [Techstars](https://www.techstars.com/) and [Antler](https://www.antler.co)
 - 📫 How to reach me: raveen.b@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: [Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor) amazing, and [Flight, try SCE to Aux](https://www.nasa.gov/history/afj/ap12fj/a12-lightningstrike.html) was beautiful!
+- ⚡ Fun fact: Travelled to the Arctic Circle in Alaska once upon a time and hiked with Grizzly bears and in younger days traveresed crevasse fille glaciers in Swiss Alps, fun times!
+- ⚡ WOW fact 1: [Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor) amazing to solve team and relationship problems!
+- ⚡ WOW fact 2: [Flight, try SCE to Aux](https://www.nasa.gov/history/afj/ap12fj/a12-lightningstrike.html) was beautiful!
   
