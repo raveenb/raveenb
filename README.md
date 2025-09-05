@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m founder and CEO of [Luminary Lane[(https://www.luminarylane.app) an agentic Branding and Marketing platforms for businesses.
+- 🔭 I’m founder and CEO of [Luminary Lane](https://www.luminarylane.app) an agentic Branding and Marketing platforms for businesses.
 - 💸 Exited my first startup [Hammerhead](https://www.hammerhead.io) in 2021 and exited my second startup [Leadzen](https://app.leadzen.ai) in 2023
 - 🌱 I’m keen on using Generative AI for solving business problems, 
 - 👯 I’m looking to collaborate on AI, Productivity Tools, Fintech, SportsTech, HardTech
