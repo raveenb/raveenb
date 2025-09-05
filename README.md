@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m a 3x tech founder and currently CEO of [Luminary Lane](https://www.luminarylane.app) an agentic Branding and Marketing platform for businesses based out of Singapore
+- 🔭 I’m a 3x tech founder and currently Co-Founder and CEO of [Luminary Lane](https://www.luminarylane.app) an agentic Branding and Marketing platform for businesses based out of Singapore
 - 💸 Exited a few startups, first one [Hammerhead](https://www.hammerhead.io) in 2021 (US), and second one [Leadzen](https://app.leadzen.ai)  in 2024 (India), was a sweet-n-sour experience, but can't complain!
 - 🌱 I’m keen on using Generative AI for solving business problems, 
 - 👯 I’m looking to collaborate on AI, Productivity Tools, Fintech, SportsTech, HardTech, MarketTech
