@@ -5,11 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently looking to start my third startup and am part of the Antler Singapore SG17 Cohort
+- 🔭 I’m founder and CEO of [Luminary Lane[(https://www.luminarylane.app) an agentic Branding and Marketing platforms for businesses.
 - 💸 Exited my first startup [Hammerhead](https://www.hammerhead.io) in 2021 and exited my second startup [Leadzen](https://app.leadzen.ai) in 2023
-- 🌱 I’m still learning on Generative AI, Creative Writing, Designing on Canva (awesome tool btw!)
+- 🌱 I’m keen on using Generative AI for solving business problems, 
 - 👯 I’m looking to collaborate on AI, Productivity Tools, Fintech, SportsTech, HardTech
-- 🤔 I’m looking for help with SEM and Content Marketing
 - 💬 Ask me about Startups, [Techstars](https://www.techstars.com/), Software Development, Python, AI/ML
 - 📫 How to reach me: raveen.b@gmail.com
 - 😄 Pronouns: he/him
